@@ -10,7 +10,7 @@ package com.eomcs.lang.ex02;
 //
 //## 애노테이션 문법
 //- 작성 방법
-//  @애노테이션명(프로퍼티명=값,프로퍼티명=값,...)
+//  @애노테이션명(프로퍼티명=값,프로퍼티명=값,...)ㅓㅁㅍㅁ
 //  예1) @Override
 //  예2) @SuppressWarnings(value="deprecation")
 //  예3) @SuppressWarnings(value={"unchecked", "deprecation"})
